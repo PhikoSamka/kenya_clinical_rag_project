@@ -1,2 +1,2 @@
-# kenya_clinical_rag_project
+# Kenya Clinical Rag Project
 RAG pipeline for clinical decision support using Kenyan medical vignettes
